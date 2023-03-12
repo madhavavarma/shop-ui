@@ -1,16 +1,22 @@
 {
   "files": {
-    "main.css": "/shop-ui/static/css/main.62d7a8a5.css",
-    "main.js": "/shop-ui/static/js/main.531fe1b6.js",
+    "main.css": "/shop-ui/static/css/main.6fe38195.css",
+    "main.js": "/shop-ui/static/js/main.67bf933a.js",
     "static/js/787.405e9222.chunk.js": "/shop-ui/static/js/787.405e9222.chunk.js",
-    "static/media/pickles-logo.webp": "/shop-ui/static/media/pickles-logo.1482085fe9322538ae51.webp",
+    "static/media/hero3.jpg": "/shop-ui/static/media/hero3.d0abbd6dea461cea441e.jpg",
+    "static/media/customer5.jpg": "/shop-ui/static/media/customer5.58f49c336d2d267e8bfb.jpg",
+    "static/media/customer6.jpg": "/shop-ui/static/media/customer6.f2d6db3c72df8d24e60f.jpg",
+    "static/media/customer2.jpg": "/shop-ui/static/media/customer2.727b69d853200679f395.jpg",
+    "static/media/customer4.jpg": "/shop-ui/static/media/customer4.259f04a3412fb5c2346b.jpg",
+    "static/media/customer3.jpg": "/shop-ui/static/media/customer3.453a3e8f8c864d026492.jpg",
+    "static/media/customer1.jpg": "/shop-ui/static/media/customer1.0d805862aa34e71afa8e.jpg",
     "index.html": "/shop-ui/index.html",
-    "main.62d7a8a5.css.map": "/shop-ui/static/css/main.62d7a8a5.css.map",
-    "main.531fe1b6.js.map": "/shop-ui/static/js/main.531fe1b6.js.map",
+    "main.6fe38195.css.map": "/shop-ui/static/css/main.6fe38195.css.map",
+    "main.67bf933a.js.map": "/shop-ui/static/js/main.67bf933a.js.map",
     "787.405e9222.chunk.js.map": "/shop-ui/static/js/787.405e9222.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.62d7a8a5.css",
-    "static/js/main.531fe1b6.js"
+    "static/css/main.6fe38195.css",
+    "static/js/main.67bf933a.js"
   ]
 }
